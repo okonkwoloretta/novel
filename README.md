@@ -5,8 +5,11 @@ This project aims to analyze the word frequency distribution in classic novels. 
 ## Dependencies:
 
 Python 3.x
+
 requests
+
 BeautifulSoup
+
 nltk
 
 ## Installation:
