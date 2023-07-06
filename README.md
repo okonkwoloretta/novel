@@ -1,5 +1,8 @@
 # Word Frequency in Classic Novels
 
+![novel](https://github.com/okonkwoloretta/novel/assets/116097143/1ff2fd85-9086-48a1-8092-8da2f5bebeb5)
+
+
 This project aims to analyze the word frequency distribution in classic novels. In this specific example, we analyze Herman Melville's novel, Moby Dick. The project utilizes Python and several libraries to scrape the novel from the Project Gutenberg website, extract words, remove stop words, and determine the most frequent words.
 
 ## Dependencies:
